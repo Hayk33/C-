@@ -1,0 +1,6 @@
+D:\hayk\Project3\Project3\bin\Debug\Project3.exe.config
+D:\hayk\Project3\Project3\bin\Debug\Project3.exe
+D:\hayk\Project3\Project3\bin\Debug\Project3.pdb
+D:\hayk\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+D:\hayk\Project3\Project3\obj\Debug\Project3.exe
+D:\hayk\Project3\Project3\obj\Debug\Project3.pdb
